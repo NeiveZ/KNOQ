@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # KNOQ - Knock Network Open Query
+
 # Author: NeiveZ | github.com/NeiveZ/KNOQ
 
 set -euo pipefail
